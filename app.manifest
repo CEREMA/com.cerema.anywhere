@@ -1,7 +1,7 @@
 {
     "namespace": "com.cerema.anywhere",
-    "git": "",
-    "title": "tpl.omneedia.mobilev2",
+    "git": "https://github.com/CEREMA/com.cerema.anywhere.git",
+    "title": "com.cerema.anywhere",
     "description": "Package description goes here",
     "platform": "mobile",
     "uid": "311fb3be-ec51-499d-9539-e0aa50daeaf7",
